@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{270:function(n,l,t){"use strict";t.r(l);var o={methods:{handleClick(){console.log("登录成功")}}},c=t(13),e=Object(c.a)(o,(function(){return(0,this._self._c)("button",{on:{click:this.handleClick}},[this._v("登录")])}),[],!1,null,null,null);l.default=e.exports}}]);
